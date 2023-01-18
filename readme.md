@@ -1,4 +1,11 @@
 # Projektuppgift webbutveckling III
+Webbplatsen, administrationssida och
+webb-api för den fiktiva restaurangen Le Sauvage.
+I uppgiften ingår att ta fram en grafisk profil. Skapa en rest-webbtjänst och en
+publik webbplats samt ett administrations gränssnitt. På webbplatsen ska menyn
+läsas ut dynamiskt och användare ska kunna göra bordbokning som sparas i en
+databas. I administrations gränssnittet ska personalen på restaurangen göra
+uppdateringar i meny och bokningar samt radera dem vid behov. 
 
 ## Länk till API
 - Bokning: https://studenter.miun.se/~joka2113/writeable/projekt_webservice_vt22-JohannaKarlsson89/api_booking.php
